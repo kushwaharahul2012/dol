@@ -1,0 +1,11 @@
+
+Pinging google.com [2404:6800:4002:82a::200e] with 32 bytes of data:
+Reply from 2404:6800:4002:82a::200e: time=161ms 
+Reply from 2404:6800:4002:82a::200e: time=71ms 
+Reply from 2404:6800:4002:82a::200e: time=91ms 
+Reply from 2404:6800:4002:82a::200e: time=108ms 
+
+Ping statistics for 2404:6800:4002:82a::200e:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 71ms, Maximum = 161ms, Average = 107ms
